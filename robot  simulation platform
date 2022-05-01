@@ -1,1 +1,171 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T06:05:37.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.4.6" etag="J09cQlkpHVokdzzvtfs8" type="github"><diagram id="mbs_-Xp35bRNVMjEEdnN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-01T11:09:55.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="NaU0DL9gdI3oRXbvKhlz" version="17.4.6" type="github">
+  <diagram id="mbs_-Xp35bRNVMjEEdnN" name="Page-1">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.444;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IFPhdlsNQWqf7VHCUhXD-1" target="IFPhdlsNQWqf7VHCUhXD-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="94.28571428571429" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-1" value="单轴Vmax&lt;br&gt;运动范围&lt;br&gt;运动轨迹&lt;br&gt;运动程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IFPhdlsNQWqf7VHCUhXD-3" target="IFPhdlsNQWqf7VHCUhXD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IFPhdlsNQWqf7VHCUhXD-3" target="IFPhdlsNQWqf7VHCUhXD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-3" value="规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFPhdlsNQWqf7VHCUhXD-2" target="IFPhdlsNQWqf7VHCUhXD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-2" value="边界条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-4" value="动力学&lt;br&gt;理想模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFPhdlsNQWqf7VHCUhXD-5" target="IFPhdlsNQWqf7VHCUhXD-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.067;entryY=0.477;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IFPhdlsNQWqf7VHCUhXD-5" target="IFPhdlsNQWqf7VHCUhXD-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-5" value="整形" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFPhdlsNQWqf7VHCUhXD-6" target="IFPhdlsNQWqf7VHCUhXD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-6" value="3 Loops + 力控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-7" value="plant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="658" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-9" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="186" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-21" value="HIL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-22" value="前馈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="309" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-24" value="输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-25" value="柔性多体动力学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="660.5" y="330" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-26" value="物理引擎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="658" y="360" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-27" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillColor=none;strokeColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="510" y="186" width="300" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=none;gradientColor=none;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="500" y="30" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-30" value="现有项目：系统、节拍、速度、负载率、受力（FEM、疲劳）、寿命计算（Gear L10）" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="526" y="10" width="484" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-31" value="将来开发：1 精度仿真：绝对、轨迹、重复&amp;nbsp; &amp;nbsp;2. Gear自由度：单向-&amp;gt;3维度&amp;nbsp; &amp;nbsp; &amp;nbsp;3. 真机精度90%~95%" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="526" y="65" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-32" value="DE优势：1. 数据库完善、真实性（85%~90%），数据库数量规模查验及扩展&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2. 深度定制 正向快速迭代、拓展能力强" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=none;gradientColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="526" y="120" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-33" value="线束. tbd" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="805.5" width="95" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-34" value="&lt;b&gt;待开发仿真功能&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="522" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-35" value="&lt;b&gt;德国现有仿真&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-37" value="控制器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-41" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="770" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-42" value="当前：无" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357" y="762" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-43" value="柔性建模（机械）" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="806" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-44" value="可靠性仿真" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="850" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-45" value="关键部件数据库： 提升电机、减速机建模、辨识准确度、复杂度" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="233" y="900" width="362" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-47" value="学术高度" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="732" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="20" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-49" value="单自由度关节柔性（模型）" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="233" y="530" width="150" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-50" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="407" y="496" width="20" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-51" value="关节多自由度（1年）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="441" y="480" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-52" value="臂杆柔性（3年）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="429" y="528" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-53" value="柔性多体动力学数值计算方法" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="233" y="609" width="180" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-54" value="接触碰撞模型（10年）" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="233" y="680" width="150" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-55" value="仿真自动优化" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="233" y="740" width="78" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-56" value="柔性规划模型 （5年）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="570" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-57" value="重载特点" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="632" y="697" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-58" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="727" y="572" width="20" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-59" value="1. 并联机构" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="757" y="562" width="100" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-60" value="2. 本体轻量化（负载重量比）" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="757" y="609" width="190" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-62" value="3. 重力补偿（开闭链混联）" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="757" y="655" width="169" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-63" value="4. 本体构型：A3下置、电机/Gear并联" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="757" y="702" width="219" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-64" value="5. 液压" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="757" y="749" width="59" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-65" value="6. 更大负载：电机、减速比" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="757" y="795" width="159" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IFPhdlsNQWqf7VHCUhXD-66" value="7. 大惯量比（确认KUKA数据）" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="757" y="842" width="180" height="32" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
