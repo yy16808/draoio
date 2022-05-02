@@ -1,20 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T03:01:27.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="3T6A9J2BpO7sH_e4KcMR" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T02:42:18.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="dujlqdCUinfVza04cyfH" version="17.4.6" type="github">
   <diagram id="uNOQbPL3Z1Xvu-kMEMPM" name="Page-1">
-    <mxGraphModel dx="1185" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="2192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jbw3zZrHUksGwz2nl60a-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jbw3zZrHUksGwz2nl60a-1" target="jbw3zZrHUksGwz2nl60a-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jbw3zZrHUksGwz2nl60a-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jbw3zZrHUksGwz2nl60a-1" target="jbw3zZrHUksGwz2nl60a-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="905" y="-10" />
+              <mxPoint x="360" y="-10" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jbw3zZrHUksGwz2nl60a-1" target="jbw3zZrHUksGwz2nl60a-25">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="905" y="-10" />
+              <mxPoint x="790" y="-10" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jbw3zZrHUksGwz2nl60a-1" target="jbw3zZrHUksGwz2nl60a-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-1" value="KUKA SCARA SPEC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="-50" width="130" height="40" as="geometry" />
+          <mxGeometry x="840" y="-140" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jbw3zZrHUksGwz2nl60a-2" target="jbw3zZrHUksGwz2nl60a-3">
           <mxGeometry relative="1" as="geometry" />
@@ -100,16 +110,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-33" value="&lt;font face=&quot;微软雅黑, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;电流&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1055.5" y="67" width="120" height="40" as="geometry" />
+          <mxGeometry x="1185.5" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-34" value="&lt;font face=&quot;微软雅黑, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;额定&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="280" width="70" height="40" as="geometry" />
+          <mxGeometry x="1050" y="293" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-35" value="&lt;font face=&quot;微软雅黑, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;峰值&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="280" width="70" height="40" as="geometry" />
+          <mxGeometry x="1130" y="293" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-36" value="&lt;font face=&quot;微软雅黑, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;持续时间&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="280" width="70" height="40" as="geometry" />
+          <mxGeometry x="1213" y="293" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jbw3zZrHUksGwz2nl60a-37" target="jbw3zZrHUksGwz2nl60a-35">
           <mxGeometry relative="1" as="geometry" />
@@ -121,19 +131,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-37" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;电机&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="985.5" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="1115.5" y="173" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jbw3zZrHUksGwz2nl60a-43" target="jbw3zZrHUksGwz2nl60a-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jbw3zZrHUksGwz2nl60a-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jbw3zZrHUksGwz2nl60a-43" target="jbw3zZrHUksGwz2nl60a-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-43" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;电源&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1155.5" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="1285.5" y="173" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-44" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;母线电流&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170.5" y="280" width="70" height="40" as="geometry" />
+          <mxGeometry x="1300.5" y="293" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jbw3zZrHUksGwz2nl60a-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jbw3zZrHUksGwz2nl60a-47" target="jbw3zZrHUksGwz2nl60a-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbw3zZrHUksGwz2nl60a-47" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;温升&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="890" y="173" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jbw3zZrHUksGwz2nl60a-49" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.0pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;A1 &lt;/span&gt;&lt;span style=&quot;font-size: 10.0pt&quot;&gt;绕阻&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.0pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;127&lt;/span&gt;&lt;span style=&quot;font-size: 10.0pt&quot;&gt;度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jbw3zZrHUksGwz2nl60a-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jbw3zZrHUksGwz2nl60a-50" target="jbw3zZrHUksGwz2nl60a-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbw3zZrHUksGwz2nl60a-50" value="&lt;span style=&quot;font-size: 10.0pt&quot;&gt;机器人壳体&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.0pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;75&lt;/span&gt;&lt;span style=&quot;font-size: 10.0pt&quot;&gt;度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="293" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jbw3zZrHUksGwz2nl60a-51" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;环境问题约32度，还没达到热平衡出现了停机，A3 50% 速度（A124速度为100%，A3　100%速度情况下温度过高）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="360" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jbw3zZrHUksGwz2nl60a-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jbw3zZrHUksGwz2nl60a-54" target="jbw3zZrHUksGwz2nl60a-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbw3zZrHUksGwz2nl60a-54" value="&lt;font face=&quot;微软雅黑, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;电源板：峰值功率达到了Pomax=8.6kW&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="293" width="150" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="jbw3zZrHUksGwz2nl60a-56" value="&lt;font face=&quot;微软雅黑, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;测试条件：测试功率为目前系统可以运行的最快adapt cycle为0.388s，取测试数据进行分析发现，最大输出电流达到182A&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="400" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
