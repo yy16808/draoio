@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T07:28:40.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="QkIDhFkSQlrDvA5QWXh4" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-23T07:56:49.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="i0P7aBjd5vs2yQ1Sk2lZ" version="20.0.1" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="资料文档">
     <mxGraphModel dx="782" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -346,6 +346,112 @@
         <mxCell id="CE0FjwL1e8ncTIUKtmHa-94" value="017-机器人构型" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="901.5" width="120" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Jpnscv3rl5vJ-J2pjzz4" name="知识管理系统 &amp; 个人知识总结">
+    <mxGraphModel dx="1117" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-31" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-1" target="c4_lh1Kw4enLt2HjVVU2-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-1" value="011-技术文档模板" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-2" value="012-个人总结文档" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-15" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-3" target="c4_lh1Kw4enLt2HjVVU2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-3" value="000-viso流程图" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-16" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-4" target="c4_lh1Kw4enLt2HjVVU2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-4" value="001-机器人构型" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-1089" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-17" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-5" target="c4_lh1Kw4enLt2HjVVU2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-5" value="002-运动学" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-1038" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-18" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-6" target="c4_lh1Kw4enLt2HjVVU2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-6" value="003-四元数" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-987" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-19" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-7" target="c4_lh1Kw4enLt2HjVVU2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-7" value="004-旋量与对偶四元数参考" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-936" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-20" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-8" target="c4_lh1Kw4enLt2HjVVU2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-8" value="005-运动规划" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-885" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-21" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-10" target="c4_lh1Kw4enLt2HjVVU2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-10" value="006-刚体动力学" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-834" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-22" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-11" target="c4_lh1Kw4enLt2HjVVU2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-11" value="007-摩擦力" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-783" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-25" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-12" target="c4_lh1Kw4enLt2HjVVU2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-12" value="008-弹性动力学" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-732" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-26" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-13" target="c4_lh1Kw4enLt2HjVVU2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-13" value="009-机器人力控技术" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-681" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-27" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-14" target="c4_lh1Kw4enLt2HjVVU2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-14" value="099-美的Tech+技术论坛" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-32" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-28" target="c4_lh1Kw4enLt2HjVVU2-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-28" value="013-行业报告" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-33" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c4_lh1Kw4enLt2HjVVU2-29" target="c4_lh1Kw4enLt2HjVVU2-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-29" value="014-六轴算法平台" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_lh1Kw4enLt2HjVVU2-30" value="021 - 技术情报追踪" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-510" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Gu6arHsu-WAo5LAo3932" name="Page-4">
+    <mxGraphModel dx="782" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
